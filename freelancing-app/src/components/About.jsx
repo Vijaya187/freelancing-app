@@ -25,7 +25,7 @@ const About = () => {
               </div>
               <div className="col-lg-6">
                 <img
-                  src="https://source.unsplash.com/600x400/?freelancer,work"
+                  src="/assets/image.png"
                   className="img-fluid rounded"
                   alt="Freelancing"
                 />
