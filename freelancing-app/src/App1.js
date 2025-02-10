@@ -10,6 +10,7 @@ import Hiring from "./components/Hiring";
 import Client from "./components/Client";
 import FrelancerDashBorad from "./components/Freelancer/Freelancerdashborad";
 import ClientDashboard from "./components/Clientdash/ClientDashboard";
+import About from "./components/About";
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
         <Route path="/client" element={<Client />}></Route>
         <Route path="/freelancerdashboard" element={<FrelancerDashBorad />} />
         <Route path="/clientdashboard" element={<ClientDashboard />} />
+        <Route path="/about" element={<About />} />
       </Routes>
     </Router>
   );
