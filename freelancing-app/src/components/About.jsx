@@ -60,7 +60,7 @@ const About = () => {
                     full-time as a freelancer."
                   </p>
                   <footer className="blockquote-footer">
-                    John Doe, Web Developer
+                   Vijay , Web Developer
                   </footer>
                 </blockquote>
               </div>
@@ -71,7 +71,7 @@ const About = () => {
                     amazing designer for my startup!"
                   </p>
                   <footer className="blockquote-footer">
-                    Sarah Johnson, Startup Founder
+                    Ajitha, Startup Founder
                   </footer>
                 </blockquote>
               </div>

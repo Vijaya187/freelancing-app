@@ -28,7 +28,7 @@ const Navbar = () => {
       <div className="container-fluid">
         {/* Brand Name */}
         <a className="navbar-brand text-white" href="#">
-          Navbar scroll
+         Logo
         </a>
 
         {/* Navbar Toggler for Mobile View */}

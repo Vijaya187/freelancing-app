@@ -10,7 +10,7 @@ const Home = () => {
         <img
           src="./assets/pic02.jpg"
           alt="Background"
-          className="img-fluid w-100 vh-100 object-fit-cover position-absolute top-0 start-0"
+          className="img-fluid w-100 vh-100 object-fit-cover position-absolute top-0 start-0 res-img"
         />
 
         {/* Content */}

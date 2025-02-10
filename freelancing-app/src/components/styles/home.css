@@ -59,7 +59,11 @@
 
   @media (max-width: 768px) {
   .home-img-con {
-    display: none;
+    width: 400% !important;
+    height: 100% !important;
+  }
+  .res-img{
+    height: 115% !important;
   }
 }
 
